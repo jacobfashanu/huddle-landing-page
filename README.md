@@ -3,12 +3,6 @@
 This is a solution to the [Huddle landing page with curved sections](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2).
 
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
 ### Links
 
 - Live Site URL: [https://jacobf-huddle-landing-page.netlify.app/](https://jacobf-huddle-landing-page.netlify.app/)
