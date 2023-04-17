@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2).
 
 
 ### The challenge
@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://jacobf-business-card-preview.netlify.app/](https://jacobf-business-card-preview.netlify.app/)
-- Solution submission URL: [https://www.frontendmentor.io/solutions/html-css-TzZZBAj4ez](https://www.frontendmentor.io/solutions/html-css-TzZZBAj4ez)
+- Live Site URL: [https://jacobf-huddle-landing-page.netlify.app/](https://jacobf-huddle-landing-page.netlify.app/)
+- Solution submission URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-Ega6-JikN6](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-Ega6-JikN6)
 
 ### Screenshot
 
