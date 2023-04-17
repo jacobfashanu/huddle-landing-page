@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desktop-view1.png)
+![](./Desktop-view2.png)
 ![](./Tablet-view1.png)
 ![](./mobile-view1.png)
 
